@@ -27,6 +27,7 @@ The Main class serves as the entry point to the program. It initializes the nece
 ## How to Run
 Ensure you have Java installed on your machine.
 Compile all Java files using a Java compiler.
+The the Main classs in src/main/java/example.
 Run the Main class.
 Additional Notes
 The system utilizes logging to record important events and errors. Log files are created for each major component, such as CarQueue.log, ChargingStation.log, EnergyManagement.log, and Weather.log.
