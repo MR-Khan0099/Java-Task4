@@ -1,0 +1,66 @@
+Feb 12, 2024 12:51:26 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 12, 2024 12:51:26 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 12, 2024 12:51:26 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 12, 2024 12:51:29 PM example.CarQueue addCar
+INFO: Car added to the queue: wefwe
+Feb 12, 2024 12:51:30 PM example.CarQueue addCar
+INFO: Car added to the queue: wqerfr
+Feb 12, 2024 12:51:31 PM example.CarQueue addCar
+INFO: Car added to the queue: 34rft
+Feb 12, 2024 12:51:31 PM example.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 12, 2024 12:51:31 PM example.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 12, 2024 12:51:31 PM example.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 12, 2024 12:51:31 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 12, 2024 12:51:31 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 12, 2024 12:51:31 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 12, 2024 12:51:36 PM example.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 12, 2024 12:51:36 PM example.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 12, 2024 12:51:36 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 12, 2024 12:51:36 PM example.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 12, 2024 12:51:36 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 12, 2024 12:51:36 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 12, 2024 5:43:01 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 12, 2024 5:43:01 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 12, 2024 5:43:01 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 12, 2024 5:43:06 PM example.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 12, 2024 5:43:06 PM example.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 12, 2024 5:43:06 PM example.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 12, 2024 5:43:06 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 12, 2024 5:43:06 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 12, 2024 5:43:06 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 12, 2024 5:46:28 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 12, 2024 5:46:28 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 12, 2024 5:46:28 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 12, 2024 6:01:25 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 12, 2024 6:01:25 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 12, 2024 6:01:25 PM example.CarQueue getNextCar
+INFO: Car retrieved: Car 3

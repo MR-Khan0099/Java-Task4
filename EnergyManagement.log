@@ -1,0 +1,14 @@
+Feb 12, 2024 12:51:26 PM example.EnergyManagement updateEnergySource
+INFO: Current energy source: Grid
+Feb 12, 2024 12:51:31 PM example.EnergyManagement updateEnergySource
+INFO: Current energy source: Grid
+Feb 12, 2024 12:51:36 PM example.EnergyManagement updateEnergySource
+INFO: Current energy source: Solar
+Feb 12, 2024 5:43:01 PM example.EnergyManagement updateEnergySource
+INFO: Current energy source: Grid
+Feb 12, 2024 5:43:06 PM example.EnergyManagement updateEnergySource
+INFO: Current energy source: Grid
+Feb 12, 2024 5:46:28 PM example.EnergyManagement updateEnergySource
+INFO: Current energy source: Grid
+Feb 12, 2024 6:01:25 PM example.EnergyManagement updateEnergySource
+INFO: Current energy source: Grid

@@ -1,0 +1,18 @@
+Feb 12, 2024 12:51:31 PM example.ChargingStation chargeCar
+INFO: Slot 2: Charging complete for Car 3
+Feb 12, 2024 12:51:31 PM example.ChargingStation chargeCar
+INFO: Slot 3: Charging complete for Car 2
+Feb 12, 2024 12:51:31 PM example.ChargingStation chargeCar
+INFO: Slot 1: Charging complete for Car 1
+Feb 12, 2024 12:51:36 PM example.ChargingStation chargeCar
+INFO: Slot 2: Charging complete for Car 4
+Feb 12, 2024 12:51:36 PM example.ChargingStation chargeCar
+INFO: Slot 3: Charging complete for Car 5
+Feb 12, 2024 12:51:36 PM example.ChargingStation chargeCar
+INFO: Slot 1: Charging complete for Car 6
+Feb 12, 2024 5:43:06 PM example.ChargingStation chargeCar
+INFO: Slot 1: Charging complete for Car 1
+Feb 12, 2024 5:43:06 PM example.ChargingStation chargeCar
+INFO: Slot 3: Charging complete for Car 2
+Feb 12, 2024 5:43:06 PM example.ChargingStation chargeCar
+INFO: Slot 2: Charging complete for Car 3
